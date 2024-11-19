@@ -18,7 +18,7 @@ Follow these steps to install and run both the backend and frontend of the proje
 ### 1. Clone the repository
 Open a terminal and run the following command to clone the repository:
 ```bash
-git clone https://github.com/xELGpx/ProyectoUniWItget.git
+git clone https://github.com/xELGpx/Proyect-Web.git
 2. Install Backend Dependencies
 Navigate to the backend directory (e.g., CRUD-tienda) and install the required dependencies:
 
